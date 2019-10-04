@@ -1,0 +1,7 @@
+# Folders
+.idea
+vendor
+docker/databases
+
+# Files
+composer.phar

@@ -1,0 +1,16 @@
+{
+    "name": "smal/cms",
+    "authors": [
+        {
+            "name": "Aleksandr Smirnov",
+            "email": "smalvad@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "engine",
+            "Engine\\DI\\": "engine/DI"
+        }
+    }
+}
